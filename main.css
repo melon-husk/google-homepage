@@ -1,3 +1,31 @@
-#google-image {
-    padding-top: 10px;
+.img-container {
+    text-align: center;
+    padding-top: 100px;
+}
+.search-bar {
+    text-align: center;
+    padding-top: 20px;
+}
+#search {
+    border-radius: 25px;
+    border: 0.5px solid gray;
+    height: 45px;
+    width: 600px;
+    
+}
+#search:hover {
+    box-shadow: 0.5px 0.5px 0.5px 0.5px gray;
+}
+.buttons {
+    padding-top: 40px;
+   
+}
+#search-but1 {
+    font-size: 15px;
+    padding: 6px;
+    margin-right: 12px;
+}
+#search-but2 {
+    font-size: 15px;
+    padding: 6px;
 }
