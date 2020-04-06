@@ -1,6 +1,6 @@
 .img-container {
     text-align: center;
-    padding-top: 100px;
+    padding-top: 170px;
 }
 .search-bar {
     text-align: center;
@@ -22,10 +22,100 @@
 }
 #search-but1 {
     font-size: 15px;
-    padding: 6px;
+    padding: 8px;
     margin-right: 12px;
+    background-color: #f2f2f2;
+    border: none;
+    color: dimgray;
 }
 #search-but2 {
     font-size: 15px;
-    padding: 6px;
+    padding: 8px;
+    background-color: #f2f2f2;
+    border: none;
+    color: dimgray;
+}
+#search-but2:hover {
+    color: black;
+}
+#search-but1:hover {
+    color: black;
+    
+}
+.topnav {
+    padding: 10px;
+    
+}
+
+#gmail {
+    float: right;
+    padding: 10px;
+    text-decoration: none;
+    color: gray;
+}
+#images {
+    float: right;
+    padding: 10px;
+    text-decoration: none;
+    
+}
+#signin {
+    float: right;
+    padding: 10px;
+    height: 40px;
+    text-decoration: none;
+    border: 1px solid #4285f4;
+    font-weight: bold;
+    outline: none;
+    background: #4285f4;
+    background: linear-gradient(top,#4387fd,#4683ea);
+    color: white;
+}
+#about {
+    padding: 10px;
+    text-decoration: none;
+    
+}
+#store {
+    padding: 10px;
+    text-decoration: none;
+}
+.alignlef {
+    float: right;
+    
+}
+.bottomnav {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    background: #f2f2f2;
+}
+
+.padding {
+    padding: 10px;
+    text-decoration: none;
+    color: dimgray;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    
+}
+.padding:hover {
+    text-decoration: underline;
+}
+#settings {
+    padding-right: 10px;
+    color: dimgray;
+    font-family: arial,sans-serif;
+    text-decoration: none;
+    font-size: 13px;
+    
+}
+#settings:hover {
+    text-decoration: underline;
+}
+body {
+    color: dimgray;
+    font-family: arial,sans-serif;
 }
