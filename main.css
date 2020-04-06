@@ -8,13 +8,20 @@
 }
 #search {
     border-radius: 25px;
-    border: 0.5px solid gray;
+    border: 1px solid #dfe1e5;
+    background: #fff;
     height: 45px;
     width: 600px;
+    font-size: 14px;
     
 }
+.mic {
+    height: 22px;
+
+}
 #search:hover {
-    box-shadow: 0.5px 0.5px 0.5px 0.5px gray;
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+    border-color: rgba(223,225,229,0);
 }
 .buttons {
     padding-top: 40px;
