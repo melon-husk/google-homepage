@@ -6,6 +6,9 @@
     text-align: center;
     padding-top: 20px;
 }
+input {
+    outline:none;
+   }
 #search {
     border-radius: 25px;
     border: 1px solid #dfe1e5;
