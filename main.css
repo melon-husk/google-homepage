@@ -2,17 +2,21 @@
     text-align: center;
     padding-top: 170px;
 }
+
 .search-bar {
     text-align: center;
     padding-top: 20px;
 }
+
 input {
-    outline:transparent;    
+    outline: transparent;
 }
+
 input[type="text"] {
-    font-size:24px;
+    font-size: 24px;
     text-indent: 10px;
 }
+
 #search {
     border-radius: 25px;
     border: 1px solid #dfe1e5;
@@ -20,18 +24,22 @@ input[type="text"] {
     height: 45px;
     width: 600px;
 }
+
 .mic {
     height: 22px;
 
 }
+
 #search:hover {
-    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
-    border-color: rgba(223,225,229,0);
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+    border-color: rgba(223, 225, 229, 0);
 }
+
 .buttons {
     padding-top: 40px;
-   
+
 }
+
 #search-but1 {
     font-size: 15px;
     padding: 8px;
@@ -40,6 +48,7 @@ input[type="text"] {
     border: none;
     color: dimgray;
 }
+
 #search-but2 {
     font-size: 15px;
     padding: 8px;
@@ -47,16 +56,19 @@ input[type="text"] {
     border: none;
     color: dimgray;
 }
+
 #search-but2:hover {
     color: black;
 }
+
 #search-but1:hover {
     color: black;
-    
+
 }
+
 .topnav {
     padding: 10px;
-    
+
 }
 
 #gmail {
@@ -65,12 +77,14 @@ input[type="text"] {
     text-decoration: none;
     color: gray;
 }
+
 #images {
     float: right;
     padding: 10px;
     text-decoration: none;
-    
+
 }
+
 #signin {
     float: right;
     padding: 10px;
@@ -80,22 +94,26 @@ input[type="text"] {
     font-weight: bold;
     outline: none;
     background: #4285f4;
-    background: linear-gradient(top,#4387fd,#4683ea);
+    background: linear-gradient(top, #4387fd, #4683ea);
     color: white;
 }
+
 #about {
     padding: 10px;
     text-decoration: none;
-    
+
 }
+
 #store {
     padding: 10px;
     text-decoration: none;
 }
+
 .alignlef {
     float: right;
-    
+
 }
+
 .bottomnav {
     position: fixed;
     left: 0;
@@ -109,25 +127,29 @@ input[type="text"] {
     padding: 10px;
     text-decoration: none;
     color: dimgray;
-    font-family: arial,sans-serif;
+    font-family: arial, sans-serif;
     font-size: 13px;
-    
+
 }
+
 .padding:hover {
     text-decoration: underline;
 }
+
 #settings {
     padding-right: 10px;
     color: dimgray;
-    font-family: arial,sans-serif;
+    font-family: arial, sans-serif;
     text-decoration: none;
     font-size: 13px;
-    
+
 }
+
 #settings:hover {
     text-decoration: underline;
 }
+
 body {
     color: dimgray;
-    font-family: arial,sans-serif;
+    font-family: arial, sans-serif;
 }
