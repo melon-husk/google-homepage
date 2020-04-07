@@ -11,6 +11,7 @@ input {
 }
 input[type="text"] {
     font-size:24px;
+    text-indent: 10px;
 }
 #search {
     border-radius: 25px;
@@ -18,8 +19,6 @@ input[type="text"] {
     background: #fff;
     height: 45px;
     width: 600px;
-    font-size: 14px;
-    
 }
 .mic {
     height: 22px;
